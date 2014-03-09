@@ -1,4 +1,4 @@
-Sooper-s-Shaders
+Sooper's Shaders
 ================
 
 DESCRIPTION:
