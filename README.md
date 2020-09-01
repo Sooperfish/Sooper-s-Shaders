@@ -7,7 +7,6 @@ My Minecraft shaders based on Paolo's Lagless Shaders.
 COPYRIGHT:
 I take no copyright for creating this shaders, and i'm not trying to top Paolo or his hard work on the shaders.
 I will also remove this if Paolo requests.
-(sorry for the informal copyright info, but i'm not planning to be a loyer)
 
 IMPROVEMENTS:
 (these are the improvements compared to Paolo's Lagless Shaders)
